@@ -1,0 +1,14 @@
+{
+  "name": "pretty-date",
+  "version": "0.0.1",
+  "description": "a date formatter to show pretty dates like github web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "its4zahoor",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
